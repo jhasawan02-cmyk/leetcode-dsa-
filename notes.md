@@ -1,0 +1,1 @@
+starting 2 questions - easy everyday in cpp
