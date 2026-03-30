@@ -1,1 +1,1 @@
-starting 2 questions - easy everyday in cpp
+30-3-2026 :: starting 2 questions(easy) everyday in cpp 
